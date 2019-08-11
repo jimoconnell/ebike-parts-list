@@ -3,7 +3,7 @@ I wanted an ebike that looked like a normal bike, would get me to work and back 
 
 After doing this build from scratch, I realized a full parts list of other DIY ebike builds would have been a helpful place to start. 
 
-Modify this parts list to make a bike that fits your needs.
+Modify [this parts list](https://github.com/stevenkilzer/ebike/raw/master/Ebike.pdf) to make a bike that fits your needs.
 
 ![Image of ebike ebike](https://raw.githubusercontent.com/stevenkilzer/ebike/master/ebike-side-view.jpg)
 
